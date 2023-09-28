@@ -1,1 +1,34 @@
-Hello
+JavaScript:
+
+For doing mathematical operations in Front-end development
+
+console.log("Hello")
+condole.log(4+4)
+
+alert("Hi")
+
+Comment:
+
+//This will be comment in JavaScript
+
+/*
+Multi-line Comment
+*/
+
+let,const,var - To create variable
+
+console.log("Num is"+" "+ num);
+
+<script src="Introduction.js"></script>
+
+let name=prompt("Enter Name:");
+
+num1="20";
+let numm=Number(num1);
+
+DOM:
+let name=document.getElementById("name");
+name.innerHTML="Name Changed";
+
+document.getElementById("");        //Gets the whole HTML element
+document.getElementById("")value;   //Gets the value that user gives        
